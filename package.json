@@ -2,6 +2,11 @@
   "name": "plumber",
   "version": "1.0.0",
   "description": "Stage map builder for unkovim",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "webpack": "^5.27.2",
+    "webpack-cli": "^4.5.0"
+  }
 }
