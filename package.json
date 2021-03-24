@@ -1,0 +1,7 @@
+{
+  "name": "plumber",
+  "version": "1.0.0",
+  "description": "Stage map builder for unkovim",
+  "main": "index.js",
+  "license": "MIT"
+}
